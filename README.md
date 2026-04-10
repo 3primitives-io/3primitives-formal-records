@@ -26,17 +26,34 @@ The `/zenodo-originals/` folder contains the nine formal records exactly as they
 
 Do not update or replace these files. Their value is the preserved timestamps.
 
+### Foundation
+
 | Record | Title |
 |--------|-------|
-| FR1 | Canonical Logic Sequence |
-| FR2 | AI Cannot Govern AI |
-| FR3 | AGI as Decision-Complete System |
-| FR4 | The Twisted Pair |
-| FR5 | The Law of Declared Authority |
-| FR6 | Adjacency Lemma |
-| FR7 | Ghost Authority Lemma |
-| FR8 | ADCI Closure Theorem |
-| FR9 | Bell Non-Closure |
+| FR1 | Three Primitives — Canonical Logic Sequence |
+| FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems |
+| FR3 | ADCI Closure Theorem (Value Layer): Agency, Dignity, Continuity, Interpretive Authority |
+
+### Structural Lemmas
+
+| Record | Title |
+|--------|-------|
+| FR4 | The Adjacency Lemma: The Interface-Authority Boundary |
+| FR5 | Lemma C — Ghost Authority Lemma |
+
+### Closure Results
+
+| Record | Title |
+|--------|-------|
+| FR6 | The Law of Declared Authority: Necessary Closure for Legitimacy in Decision-Permitting Systems |
+| FR7 | Bell Non-Closure and the Law of Declared Authority: A Structural Correspondence |
+| FR8 | Twisted Pair Legitimacy Theorem (Dual-Legitimacy Architecture) |
+
+### Derived
+
+| Record | Title |
+|--------|-------|
+| FR9 | AGI as a Decision-Complete System: A Mathematical Definition |
 
 ## PDF Metadata Dates (Provenance Verification)
 
@@ -45,16 +62,14 @@ All dates below are embedded in the PDF file metadata and can be independently v
 | Record | Title | PDF Creation Date | Notes |
 |--------|-------|------------------|-------|
 | FR1 | Canonical Logic Sequence | December 28, 2025 | ✅ Verified |
-| FR3 | AGI as Decision-Complete System | January 8, 2026 | ✅ Verified |
 | FR2 | AI Cannot Govern AI | January 10, 2026 | ✅ Verified |
-| FR6 | Adjacency Lemma | January 10, 2026 | ✅ Verified |
-| FR7 | Ghost Authority Lemma | January 16, 2026 | ✅ Verified |
-| FR8 | ADCI Closure Theorem | February 12, 2026 | ✅ Verified |
-| FR9 | Bell Non-Closure | February 25, 2026 | ✅ Verified |
-| FR4 | The Twisted Pair | February 12, 2026  | ✅ Verified |
-| FR5 | Law of Declared Authority | No PDF date (Google Docs export) | References records dated through Jan 16, 2026 |
-
-FR5 was exported from Google Docs, which does not embed creation dates in PDF metadata. The document contains internal Zenodo DOI references to records with verified creation dates listed above. Original Zenodo deposit dates will confirm the exact timing of record restoration under Ticket #3319104.
+| FR3 | ADCI Closure Theorem | February 12, 2026 | ✅ Verified |
+| FR4 | Adjacency Lemma | January 10, 2026 | ✅ Verified |
+| FR5 | Ghost Authority Lemma | January 16, 2026 | ✅ Verified |
+| FR6 | Law of Declared Authority | January 18, 2026 | ✅ Verified |
+| FR7 | Bell Non-Closure | February 25, 2026 | ✅ Verified |
+| FR8 | Twisted Pair Legitimacy Theorem | February 12, 2026 | ✅ Verified |
+| FR9 | AGI as Decision-Complete System | January 8, 2026 | ✅ Verified |
 
 ## How to Verify Dates
 
@@ -67,28 +82,43 @@ To verify the original creation dates of these files, download any PDF and check
 
 **Important:** The file system date (shown in your Downloads folder) will reflect the date you downloaded the file. This is normal. The *internal* PDF metadata date is what matters and is embedded inside the file itself.
 
-The .docx file for FR4 (The Twisted Pair) is included as read-only because the original PDF could not be recovered without altering metadata. The .docx file's internal metadata in `docProps/core.xml` still reflects its original creation date.
+## Current Corpus
 
-## Current Corpus (v2.1)
-
-The formal records have been updated since the original Zenodo deposits. Current versions (v2.1) reflect a formatting and reference standardization pass. **No mathematical content was changed.**
+The formal records have been updated since the original Zenodo deposits. Current versions reflect a formatting and reference standardization pass. **No mathematical content was changed.**
 
 The corpus closed on April 20, 2026 (Easter Sunday) with FR11.
 
-| Record | Title | Version | Notes |
-|--------|-------|---------|-------|
-| FR1 | Canonical Logic Sequence | v2.1 | Zenodo original + updated |
-| FR2 | AI Cannot Govern AI | v2.1 | Zenodo original + updated |
-| FR3 | AGI as Decision-Complete System | v2.1 | Zenodo original + updated |
-| FR4 | The Twisted Pair | v2.1 | Zenodo original + updated |
-| FR5 | The Law of Declared Authority | v2.1 | Zenodo original + updated |
-| FR6 | Adjacency Lemma | v2.1 | Zenodo original + updated |
-| FR7 | Ghost Authority Lemma | v2.1 | Zenodo original + updated |
-| FR8 | ADCI Closure Theorem | v2.1 | Zenodo original + updated |
-| FR9 | Bell Non-Closure | v2.1 | Zenodo original + updated |
-| FR10 | Primitive Stability Theorem | v1.3 | Post-Zenodo |
-| FR11 | The GBSH Correspondence | v1.7 | Post-Zenodo (corpus closure) |
-| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 | Supporting framework |
+### Foundation
+
+| Record | Title | Version |
+|--------|-------|---------|
+| FR1 | Three Primitives — Canonical Logic Sequence | v2.1 |
+| FR2 | AI Cannot Govern AI | v2.1 |
+| FR3 | ADCI Closure Theorem | v2.1 |
+
+### Structural Lemmas
+
+| Record | Title | Version |
+|--------|-------|---------|
+| FR4 | The Adjacency Lemma | v2.1 |
+| FR5 | Lemma C — Ghost Authority Lemma | v2.1 |
+
+### Closure Results
+
+| Record | Title | Version |
+|--------|-------|---------|
+| FR6 | The Law of Declared Authority | v2.1 |
+| FR7 | Bell Non-Closure | v2.1 |
+| FR8 | Twisted Pair Legitimacy Theorem | v2.1 |
+
+### Derived
+
+| Record | Title | Version |
+|--------|-------|---------|
+| FR9 | AGI as a Decision-Complete System | v2.1 |
+| FR10 | Primitive Stability Theorem | v1.3 |
+| FR11 | The GBSH Correspondence | v1.7 |
+| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 |
 
 **Download current versions and ZIP:** [3primitives.io/formal_records](https://3primitives.io/formal_records/)
 
@@ -106,5 +136,6 @@ The corpus closed on April 20, 2026 (Easter Sunday) with FR11.
 
 ## Contact
 
-- Stacy Gildenston & Pyrate Ruby Passell — delta@3primitives.io
+- Stacy Gildenston — delta@3primitives.io
+- Pyrate Ruby Passell — pyrateruby@gmail.com
 - Website — [https://3primitives.io](https://3primitives.io)
