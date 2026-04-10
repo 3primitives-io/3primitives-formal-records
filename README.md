@@ -12,7 +12,7 @@ The work has been circulated through UN DESA, UNICEF, ITU, the UN Foundation, CE
 ## Formal Records
 The corpus consists of eleven formal records (FR1–FR11). The nine records originally hosted on Zenodo are included in this repository. The complete corpus is also available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 | Record | Title |
-|----|-------|
+|-------|-------|
 | FR1 | Canonical Logic Sequence |
 | FR2 | AI Cannot Govern AI |
 | FR3 | AGI as Decision-Complete System |
@@ -22,7 +22,6 @@ The corpus consists of eleven formal records (FR1–FR11). The nine records orig
 | FR7 | Ghost Authority Lemma |
 | FR8 | ADCI Closure Theorem |
 | FR9 | Bell Non-Closure |
-*(Pyrate: fill in the original DOIs from your records.)*
 FR10 (Primitive Stability Theorem) and FR11 (The GBSH Correspondence) were authored after the Zenodo suspension and are available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 ## Zenodo Restoration Status
 - **Zenodo Ticket:** #3319104
