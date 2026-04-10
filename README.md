@@ -136,6 +136,5 @@ The corpus closed on April 20, 2026 (Easter Sunday) with FR11.
 
 ## Contact
 
-- Stacy Gildenston — delta@3primitives.io
-- Pyrate Ruby Passell — pyrateruby@gmail.com
+- Stacy Gildenston & Pyrate Ruby Passell — delta@3primitives.io
 - Website — [https://3primitives.io](https://3primitives.io)
