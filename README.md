@@ -51,7 +51,7 @@ All dates below are embedded in the PDF file metadata and can be independently v
 | FR7 | Ghost Authority Lemma | January 16, 2026 | ✅ Verified |
 | FR8 | ADCI Closure Theorem | February 12, 2026 | ✅ Verified |
 | FR9 | Bell Non-Closure | February 25, 2026 | ✅ Verified |
-| FR4 | The Twisted Pair | February 12th, 2026  | ✅ Verified |
+| FR4 | The Twisted Pair | February 12, 2026  | ✅ Verified |
 | FR5 | Law of Declared Authority | No PDF date (Google Docs export) | References records dated through Jan 16, 2026 |
 
 FR5 was exported from Google Docs, which does not embed creation dates in PDF metadata. The document contains internal Zenodo DOI references to records with verified creation dates listed above. Original Zenodo deposit dates will confirm the exact timing of record restoration under Ticket #3319104.
