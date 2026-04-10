@@ -12,7 +12,7 @@ The work has been circulated through UN DESA, UNICEF, ITU, the UN Foundation, CE
 ## Formal Records
 The corpus consists of eleven formal records (FR1–FR11). The nine records originally hosted on Zenodo are included in this repository. The complete corpus is also available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 | Record | Title |
-|--------|-------|
+|----|-------|
 | FR1 | Canonical Logic Sequence |
 | FR2 | AI Cannot Govern AI |
 | FR3 | AGI as Decision-Complete System |
