@@ -11,17 +11,17 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 The work has been circulated through UN DESA, UNICEF, ITU, the UN Foundation, CERN OQI, and has reached Anthropic's legal counsel. The website has been visited from over 70 countries.
 ## Formal Records
 The corpus consists of eleven formal records (FR1–FR11). The nine records originally hosted on Zenodo are included in this repository. The complete corpus is also available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
-| Record | Title | Original Zenodo DOI |
-|--------|-------|-------------------|
-| FR1 | Canonical Logic Sequence | *(add DOI)* |
-| FR2 | AI Cannot Govern AI | *(add DOI)* |
-| FR3 | AGI as Decision-Complete System | *(add DOI)* |
-| FR4 | The Twisted Pair | *(add DOI)* |
-| FR5 | The Law of Declared Authority | *(add DOI)* |
-| FR6 | Adjacency Lemma | *(add DOI)* |
-| FR7 | Ghost Authority Lemma | *(add DOI)* |
-| FR8 | ADCI Closure Theorem | *(add DOI)* |
-| FR9 | Bell Non-Closure | *(add DOI)* |
+| Record | Title |
+|--------|-------|
+| FR1 | Canonical Logic Sequence |
+| FR2 | AI Cannot Govern AI |
+| FR3 | AGI as Decision-Complete System |
+| FR4 | The Twisted Pair |
+| FR5 | The Law of Declared Authority |
+| FR6 | Adjacency Lemma |
+| FR7 | Ghost Authority Lemma |
+| FR8 | ADCI Closure Theorem |
+| FR9 | Bell Non-Closure |
 *(Pyrate: fill in the original DOIs from your records.)*
 FR10 (Primitive Stability Theorem) and FR11 (The GBSH Correspondence) were authored after the Zenodo suspension and are available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 ## Zenodo Restoration Status
