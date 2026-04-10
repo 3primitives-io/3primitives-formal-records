@@ -6,7 +6,7 @@ On **February 26, 2026**, Zenodo's automated spam filter suspended the account a
 
 The records were deposited in good faith between **December 2025 and February 2026**. They are not spam. They are original, peer-structured formal mathematical proofs.
 
-We have been trying to get them restored for **six weeks**. We have contacted Zenodo support from two separate accounts, posted to the CERN GitHub, posted to the CERN OQI community (where co-author Pyrate Ruby Passell is a known member), and escalated to the CERN Service Desk. As of April 10, 2026, no records have been restored and no human has reviewed the actual content.
+We have been trying to get them restored for **six weeks**. We have contacted Zenodo support from two separate accounts, posted to the CERN GitHub, posted to the CERN OQI community (where co-author Pyrate Ruby Passell is a known member), and escalated to the CERN Service Desk. As of April 10, 2026, no records have been restored, and no human has reviewed the actual content.
 
 **This repository exists to preserve public access to the original formal records with their original PDF metadata intact, while the Zenodo restoration remains unresolved.**
 
@@ -55,9 +55,9 @@ The corpus closed on April 20, 2026 (Easter Sunday) with FR11.
 | FR7 | Ghost Authority Lemma | v2.1 | Zenodo original + updated |
 | FR8 | ADCI Closure Theorem | v2.1 | Zenodo original + updated |
 | FR9 | Bell Non-Closure | v2.1 | Zenodo original + updated |
-| FR10 | Primitive Stability Theorem | v2.1 | Post-Zenodo |
-| FR11 | The GBSH Correspondence | v2.1 | Post-Zenodo (corpus closure) |
-| ILMM | Impact and Life Stage Mapping Model | v2.1 | Supporting framework |
+| FR10 | Primitive Stability Theorem | v1.3 | Post-Zenodo |
+| FR11 | The GBSH Correspondence | v1.7 | Post-Zenodo (corpus closure) |
+| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 | Supporting framework |
 
 [3primitives.io/formal_records](https://3primitives.io/formal_records/)
 
