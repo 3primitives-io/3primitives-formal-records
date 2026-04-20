@@ -20,7 +20,7 @@ Three Primitives is a formal mathematical framework proving that **AI cannot gov
 
 The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **Stacy Gildenston** (Lead Architect), operating through [3primitives.io](https://3primitives.io).
 
-The work has been circulated through UN DESA, UNICEF, ITU, the UN Foundation, CERN OQI, and has reached Anthropic's legal counsel. The website has been visited from over 70 countries.
+The work has been circulated through the UN, CERN OQI, and multiple related experts.
 
 ## Original Zenodo Deposits (Provenance Archive)
 
