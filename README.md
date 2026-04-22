@@ -120,6 +120,7 @@ The corpus closed on April 20, 2026 (Easter Sunday) with FR11.
 | FR9 | AGI as a Decision-Complete System | v2.1 |
 | FR10 | Primitive Stability Theorem | v1.3 |
 | FR11 | The GBSH Correspondence | v1.7 |
+| FR12 | The Forced Bijection | v1.3 |
 | ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 |
 
 **Download current versions and ZIP:** [3primitives.io/formal_records](https://3primitives.io/formal_records/)
