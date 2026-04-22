@@ -88,36 +88,36 @@ To verify the original creation dates of these files, download any PDF and check
 
 The formal records have been updated since the original Zenodo deposits. Current versions reflect a formatting and reference standardization pass. **No mathematical content was changed.**
 
-The corpus closed on April 20, 2026 (Easter Sunday) with FR11.
+The corpus closed on April 14, 2026 with FR12.
 
 ### Foundation
 
 | Record | Title | Version |
 |--------|-------|---------|
-| FR1 | Three Primitives — Canonical Logic Sequence | v2.1 |
-| FR2 | AI Cannot Govern AI | v2.1 |
-| FR3 | ADCI Closure Theorem | v2.1 |
+| FR1 | Three Primitives — Canonical Logic Sequence | v2.2 |
+| FR2 | AI Cannot Govern AI | v2.2 |
+| FR3 | ADCI Closure Theorem | v2.2 |
 
 ### Structural Lemmas
 
 | Record | Title | Version |
 |--------|-------|---------|
-| FR4 | The Adjacency Lemma | v2.1 |
-| FR5 | Lemma C — Ghost Authority Lemma | v2.1 |
+| FR4 | The Adjacency Lemma | v2.2 |
+| FR5 | Lemma C — Ghost Authority Lemma | v2.2 |
 
 ### Closure Results
 
 | Record | Title | Version |
 |--------|-------|---------|
-| FR6 | The Law of Declared Authority | v2.1 |
-| FR7 | Bell Non-Closure | v2.1 |
-| FR8 | Twisted Pair Legitimacy Theorem | v2.1 |
+| FR6 | The Law of Declared Authority | v2.2 |
+| FR7 | Bell Non-Closure | v2.2 |
+| FR8 | Twisted Pair Legitimacy Theorem | v2.2 |
 
 ### Derived
 
 | Record | Title | Version |
 |--------|-------|---------|
-| FR9 | AGI as a Decision-Complete System | v2.1 |
+| FR9 | AGI as a Decision-Complete System | v2.2 |
 | FR10 | Primitive Stability Theorem | v1.3 |
 | FR11 | The GBSH Correspondence | v1.7 |
 | FR12 | The Forced Bijection | v1.3 |
