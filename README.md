@@ -8,7 +8,7 @@ The records were deposited in good faith between **December 2025 and February 20
 
 We have been trying to get them restored for **six weeks**. We have contacted Zenodo support from two separate accounts, posted to the CERN GitHub, posted to the CERN OQI community (where co-author Pyrate Ruby Passell is a known member), and escalated to the CERN Service Desk. 
 
-As of April 20, 2026, Zenodo support has reinstated the account and confirmed restoration of the nine affected records. However, the records are not currently linked to the account dashboard and remain accessible only via direct URLs. The restoration is therefore incomplete.
+##As of April 20, 2026, Zenodo support has reinstated the account and confirmed restoration of the nine affected records. However, the records are not currently linked to the account dashboard and remain accessible only via direct URLs. The restoration is therefore incomplete.
 
 **This repository exists to preserve public access to the original formal records with their original PDF metadata intact, while the Zenodo restoration remains unresolved.**
 
