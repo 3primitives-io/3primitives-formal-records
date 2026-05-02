@@ -36,30 +36,30 @@ Do not update or replace these files. Their value is the preserved timestamps.
 
 | Record | Title |
 |--------|-------|
-| FR1 | Three Primitives — Canonical Logic Sequence https://doi.org/10.5281/zenodo.18073297|
-| FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems |
-| FR3 | ADCI Closure Theorem (Value Layer): Agency, Dignity, Continuity, Interpretive Authority |
+| FR1 | Three Primitives — Canonical Logic Sequence: https://doi.org/10.5281/zenodo.18073297|
+| FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems https://doi.org/10.5281/zenodo.19970642|
+| FR3 | ADCI Closure Theorem (Value Layer): Agency, Dignity, Continuity, Interpretive Authority https://doi.org/10.5281/zenodo.19970911|
 
 ### Structural Lemmas
 
 | Record | Title |
 |--------|-------|
-| FR4 | The Adjacency Lemma: The Interface-Authority Boundary |
-| FR5 | Lemma C — Ghost Authority Lemma |
+| FR4 | The Adjacency Lemma: The Interface-Authority Boundary https://doi.org/10.5281/zenodo.19971348|
+| FR5 | Lemma C — Ghost Authority Lemma https://doi.org/10.5281/zenodo.19972543|
 
 ### Closure Results
 
 | Record | Title |
 |--------|-------|
-| FR6 | The Law of Declared Authority: Necessary Closure for Legitimacy in Decision-Permitting Systems |
-| FR7 | Bell Non-Closure and the Law of Declared Authority: A Structural Correspondence |
-| FR8 | Twisted Pair Legitimacy Theorem (Dual-Legitimacy Architecture) |
+| FR6 | The Law of Declared Authority: Necessary Closure for Legitimacy in Decision-Permitting Systems https://doi.org/10.5281/zenodo.19973195|
+| FR7 | Bell Non-Closure and the Law of Declared Authority: A Structural Correspondence https://doi.org/10.5281/zenodo.19973546|
+| FR8 | Twisted Pair Legitimacy Theorem (Dual-Legitimacy Architecture) https://doi.org/10.5281/zenodo.19973784|
 
 ### Derived
 
 | Record | Title |
 |--------|-------|
-| FR9 | AGI as a Decision-Complete System: A Mathematical Definition |
+| FR9 | AGI as a Decision-Complete System: A Mathematical Definition https://doi.org/10.5281/zenodo.19970593|
 
 ## PDF Metadata Dates (Provenance Verification)
 
