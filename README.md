@@ -1,7 +1,7 @@
 # Three Primitives — Formal Records Archive
 
 ## [IMPORTANT]
-Update (May 2, 2026): Status Resolved
+### Update (May 2, 2026): Status Resolved
 We are pleased to announce that the Zenodo account has been fully reinstated and all records have been restored. We appreciate the diligence of the Zenodo and CERN support teams in resolving this matter and ensuring the mathematical corpus of the Three Primitives remains accessible to the global research community. The links to the official Zenodo records are now provided below.
 
 ## Why This Repository Exists
