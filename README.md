@@ -1,5 +1,9 @@
 # Three Primitives — Formal Records Archive
 
+[!IMPORTANT]
+Update (May 2, 2026): Status Resolved
+We are pleased to announce that the Zenodo account has been fully reinstated and all records have been restored. We appreciate the diligence of the Zenodo and CERN support teams in resolving this matter and ensuring the mathematical corpus of the Three Primitives remains accessible to the global research community. The links to the official Zenodo records are now provided below.
+
 ## Why This Repository Exists
 
 On **February 26, 2026**, Zenodo's automated spam filter suspended the account associated with `pyrateruby@gmail.com` and removed **nine formal research records** with their associated DOIs. These records form the mathematical corpus of the Three Primitives AI governance framework.
@@ -32,7 +36,7 @@ Do not update or replace these files. Their value is the preserved timestamps.
 
 | Record | Title |
 |--------|-------|
-| FR1 | Three Primitives — Canonical Logic Sequence |
+| FR1 | Three Primitives — Canonical Logic Sequence https://doi.org/10.5281/zenodo.18073297|
 | FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems |
 | FR3 | ADCI Closure Theorem (Value Layer): Agency, Dignity, Continuity, Interpretive Authority |
 
