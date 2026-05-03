@@ -1,22 +1,7 @@
 # Three Primitives — Formal Records Archive
 
-## [IMPORTANT]
-### Update (May 2, 2026): Status Resolved
-We are pleased to announce that the Zenodo account has been fully reinstated and all records have been restored. We appreciate the diligence of the Zenodo and CERN support teams in resolving this matter and ensuring the mathematical corpus of the Three Primitives remains accessible to the global research community. The links to the official Zenodo records are now provided below.
-
-## Why This Repository Exists
-
-On **February 26, 2026**, Zenodo's automated spam filter suspended the account associated with `pyrateruby@gmail.com` and removed **nine formal research records** with their associated DOIs. These records form the mathematical corpus of the Three Primitives AI governance framework.
-
-The records were deposited in good faith between **December 2025 and February 2026**. They are not spam. They are original, peer-structured formal mathematical proofs.
-
-We have been trying to get them restored for **six weeks**. We have contacted Zenodo support from two separate accounts, posted to the CERN GitHub, posted to the CERN OQI community (where co-author Pyrate Ruby Passell is a known member), and escalated to the CERN Service Desk. 
-
- **As of April 14, 2026, Zenodo support has reinstated the account and confirmed restoration of the nine affected records. However, the records are not currently linked to the account dashboard and remain accessible only via direct URLs. The restoration is therefore incomplete.**
-
-**This repository exists to preserve public access to the original formal records with their original PDF metadata intact, while the Zenodo restoration remains unresolved.**
-
-The PDF creation dates embedded in each file's metadata reflect the original authoring dates. These dates are verifiable by anyone and do not change when files are uploaded to a new location.
+## Status: All Records Live
+All formal records (FR1–FR13) are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 
 ## The Work
 
@@ -24,122 +9,103 @@ Three Primitives is a formal mathematical framework proving that **AI cannot gov
 
 The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **Stacy Gildenston** (Lead Architect), operating through [3primitives.io](https://3primitives.io).
 
-The work has been circulated through the UN, CERN OQI, and multiple related experts.
-
-## Original Zenodo Deposits (Provenance Archive)
-
-The `/zenodo-originals/` folder contains the nine formal records exactly as they were deposited on Zenodo between December 2025 and February 2026. **These files have not been modified.** Their PDF metadata contains the original creation dates, which serve as the evidentiary record of discovery.
-
-Do not update or replace these files. Their value is the preserved timestamps.
-
-### Foundation
-
-| Record | Title |
-|--------|-------|
-| FR1 | Three Primitives — Canonical Logic Sequence: https://doi.org/10.5281/zenodo.18073297|
-| FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems https://doi.org/10.5281/zenodo.19970642|
-| FR3 | ADCI Closure Theorem (Value Layer): Agency, Dignity, Continuity, Interpretive Authority https://doi.org/10.5281/zenodo.19970911|
-
-### Structural Lemmas
-
-| Record | Title |
-|--------|-------|
-| FR4 | The Adjacency Lemma: The Interface-Authority Boundary https://doi.org/10.5281/zenodo.19971348|
-| FR5 | Lemma C — Ghost Authority Lemma https://doi.org/10.5281/zenodo.19972543|
-
-### Closure Results
-
-| Record | Title |
-|--------|-------|
-| FR6 | The Law of Declared Authority: Necessary Closure for Legitimacy in Decision-Permitting Systems https://doi.org/10.5281/zenodo.19973195|
-| FR7 | Bell Non-Closure and the Law of Declared Authority: A Structural Correspondence https://doi.org/10.5281/zenodo.19973546|
-| FR8 | Twisted Pair Legitimacy Theorem (Dual-Legitimacy Architecture) https://doi.org/10.5281/zenodo.19973784|
-
-### Derived
-
-| Record | Title |
-|--------|-------|
-| FR9 | AGI as a Decision-Complete System: A Mathematical Definition https://doi.org/10.5281/zenodo.19970593|
-
-## PDF Metadata Dates (Provenance Verification)
-
-All dates below are embedded in the PDF file metadata and can be independently verified using `pdfinfo`, `exiftool`, or any PDF metadata viewer. These dates do not change when files are copied, downloaded, or uploaded.
-
-| Record | Title | PDF Creation Date | Notes |
-|--------|-------|------------------|-------|
-| FR1 | Canonical Logic Sequence | December 28, 2025 | ✅ Verified |
-| FR2 | AI Cannot Govern AI | January 10, 2026 | ✅ Verified |
-| FR3 | ADCI Closure Theorem | February 12, 2026 | ✅ Verified |
-| FR4 | Adjacency Lemma | January 10, 2026 | ✅ Verified |
-| FR5 | Ghost Authority Lemma | January 16, 2026 | ✅ Verified |
-| FR6 | Law of Declared Authority | January 18, 2026 | ✅ Verified |
-| FR7 | Bell Non-Closure | February 25, 2026 | ✅ Verified |
-| FR8 | Twisted Pair Legitimacy Theorem | February 12, 2026 | ✅ Verified |
-| FR9 | AGI as Decision-Complete System | January 8, 2026 | ✅ Verified |
-
-## How to Verify Dates
-
-To verify the original creation dates of these files, download any PDF and check its metadata:
-
-- **Windows:** Right-click > Properties > Details > look for "Date created" under the PDF metadata section (not the file system date)
-- **Mac:** Use Preview > Tools > Show Inspector > look for "Created"
-- **Command line:** Run `exiftool filename.pdf` or `pdfinfo filename.pdf` to see full metadata including `CreationDate`
-- **Online:** Upload to any PDF metadata viewer such as metadata2go.com
-
-**Important:** The file system date (shown in your Downloads folder) will reflect the date you downloaded the file. This is normal. The *internal* PDF metadata date is what matters and is embedded inside the file itself.
-
 ## Current Corpus
 
-The formal records have been updated since the original Zenodo deposits. Current versions reflect a formatting and reference standardization pass. **No mathematical content was changed.**
-
-The corpus closed on April 14, 2026 with FR12.
-
 ### Foundation
 
-| Record | Title | Version |
-|--------|-------|---------|
-| FR1 | Three Primitives — Canonical Logic Sequence | v2.2 |
-| FR2 | AI Cannot Govern AI | v2.2 |
-| FR3 | ADCI Closure Theorem | v2.2 |
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
+| FR1 | Three Primitives — Canonical Logic Sequence | v2.2 | [10.5281/zenodo.18073297](https://doi.org/10.5281/zenodo.18073297) |
+| FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems | v2.3 | [10.5281/zenodo.19970642](https://doi.org/10.5281/zenodo.19970642) |
+| FR3 | ADCI Closure Theorem | v2.2 | [10.5281/zenodo.19970911](https://doi.org/10.5281/zenodo.19970911) |
 
 ### Structural Lemmas
 
-| Record | Title | Version |
-|--------|-------|---------|
-| FR4 | The Adjacency Lemma | v2.2 |
-| FR5 | Lemma C — Ghost Authority Lemma | v2.2 |
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
+| FR4 | The Adjacency Lemma: The Interface-Authority Boundary | v2.3 | [10.5281/zenodo.19971348](https://doi.org/10.5281/zenodo.19971348) |
+| FR5 | Lemma C — Ghost Authority Lemma | v2.3 | [10.5281/zenodo.19972543](https://doi.org/10.5281/zenodo.19972543) |
 
 ### Closure Results
 
-| Record | Title | Version |
-|--------|-------|---------|
-| FR6 | The Law of Declared Authority | v2.2 |
-| FR7 | Bell Non-Closure | v2.2 |
-| FR8 | Twisted Pair Legitimacy Theorem | v2.2 |
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
+| FR6 | The Law of Declared Authority | v2.3 | [10.5281/zenodo.19973195](https://doi.org/10.5281/zenodo.19973195) |
+| FR7 | Bell Non-Closure and the Law of Declared Authority | v2.2 | [10.5281/zenodo.19973546](https://doi.org/10.5281/zenodo.19973546) |
+| FR8 | Twisted Pair Legitimacy Theorem | v2.2 | [10.5281/zenodo.19973784](https://doi.org/10.5281/zenodo.19973784) |
 
 ### Derived
 
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
+| FR9 | AGI as a Decision-Complete System | v2.2 | [10.5281/zenodo.19970593](https://doi.org/10.5281/zenodo.19970593) |
+
+### Stability and Correspondence
+
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
+| FR10 | Primitive Stability Theorem | v1.3 | [10.5281/zenodo.20000176](https://doi.org/10.5281/zenodo.20000176) |
+| FR11 | The GBSH Correspondence | v1.8 | [10.5281/zenodo.20000699](https://doi.org/10.5281/zenodo.20000699) |
+| FR12 | The Forced Bijection | v1.4 | [10.5281/zenodo.20001096](https://doi.org/10.5281/zenodo.20001096) |
+
+### Coupling
+
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
+| FR13 | The ILMM Coupling Theorem | v1.5 | [10.5281/zenodo.20001376](https://doi.org/10.5281/zenodo.20001376) |
+
+### Human Architecture
+
 | Record | Title | Version |
 |--------|-------|---------|
-| FR9 | AGI as a Decision-Complete System | v2.2 |
-| FR10 | Primitive Stability Theorem | v1.3 |
-| FR11 | The GBSH Correspondence | v1.7 |
-| FR12 | The Forced Bijection | v1.3 |
 | ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 |
 
 **Download current versions and ZIP:** [3primitives.io/formal_records](https://3primitives.io/formal_records/)
 
-## Zenodo Restoration Status
+## Original Zenodo Deposits (Provenance Archive)
 
-- **Zenodo Ticket:** #3319104
-- **Date of removal:** February 26, 2026
-- **Affected account:** pyrateruby@gmail.com
-- **Status as of April 10, 2026:** Unresolved. Escalated to CERN Service Desk.
+The `/zenodo-originals/` folder contains the first nine formal records (FR1–FR9) exactly as they were deposited on Zenodo between December 2025 and February 2026. **These files have not been modified.** Their PDF metadata contains the original creation dates, which serve as the evidentiary record of discovery.
+
+Do not update or replace these files. Their value is the preserved timestamps.
+
+### PDF Metadata Dates (Provenance Verification)
+
+All dates below are embedded in the PDF file metadata and can be independently verified using `pdfinfo`, `exiftool`, or any PDF metadata viewer.
+
+| Record | Title | PDF Creation Date |
+|--------|-------|------------------|
+| FR1 | Canonical Logic Sequence | December 28, 2025 |
+| FR2 | AI Cannot Govern AI | January 10, 2026 |
+| FR3 | ADCI Closure Theorem | February 12, 2026 |
+| FR4 | Adjacency Lemma | January 10, 2026 |
+| FR5 | Ghost Authority Lemma | January 16, 2026 |
+| FR6 | Law of Declared Authority | January 18, 2026 |
+| FR7 | Bell Non-Closure | February 25, 2026 |
+| FR8 | Twisted Pair Legitimacy Theorem | February 12, 2026 |
+| FR9 | AGI as Decision-Complete System | January 8, 2026 |
+
+### Zenodo Restoration Note
+
+FR1–FR9 were originally deposited between December 2025 and February 2026. Zenodo account access was interrupted by an automated spam filter and restored with the assistance of the Zenodo and CERN support teams (Ticket #3319104). Content is unchanged from the original publication dates.
+
+FR10–FR12 were originally published at 3primitives.io in April 2026. Zenodo upload occurred in May 2026 following account reinstatement. Content is unchanged from original publication.
+
+FR13 was first published May 2, 2026.
+
+## How to Verify Dates
+
+To verify the original creation dates, download any PDF and check its metadata:
+
+- **Windows:** Right-click > Properties > Details
+- **Mac:** Preview > Tools > Show Inspector
+- **Command line:** `exiftool filename.pdf` or `pdfinfo filename.pdf`
+- **Online:** Upload to any PDF metadata viewer such as metadata2go.com
+
+The file system date reflects when you downloaded the file. The internal PDF metadata date is what matters.
 
 ## Licensing
 
-- **ILMM:** CC BY 4.0
-- **USS and PRRT:** CC BY-NC-SA 4.0
+All formal records: CC BY 4.0
 
 ## Contact
 
