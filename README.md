@@ -1,3 +1,5 @@
+The formal corpus is self-hosted at 3primitives.io to ensure uninterrupted access. Zenodo serves as the archival DOI layer. This dual approach was adopted after an automated spam filter removed all Zenodo records for 47 days (Feb 26 – Apr 14 2026) without notice.
+
 # Three Primitives — Formal Records Archive
 
 ## Status: All Records Live
