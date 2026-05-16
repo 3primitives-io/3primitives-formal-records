@@ -60,7 +60,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 
 | Record | Title | Version |
 |--------|-------|---------|
-| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 | [10.5281/zenodo.20195143]( https://doi.org/10.5281/zenodo.20195143) |
+| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 | [10.5281/zenodo.20195143](https://doi.org/10.5281/zenodo.20195143) |
 
 
 **Download current versions and ZIP:** [3primitives.io/formal_records](https://3primitives.io/formal_records/)
