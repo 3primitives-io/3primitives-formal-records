@@ -46,21 +46,22 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| FR10 | Primitive Stability Theorem | v1.3 | [10.5281/zenodo.20000176](https://doi.org/10.5281/zenodo.20000176) |
-| FR11 | The GBSH Correspondence | v1.8 | [10.5281/zenodo.20000699](https://doi.org/10.5281/zenodo.20000699) |
+| FR10 | Primitive Stability Theorem | v2.0| [10.5281/zenodo.20000176](https://doi.org/10.5281/zenodo.20000176) |
+| FR11 | The GBSH Correspondence | v2.0 | [10.5281/zenodo.20000699](https://doi.org/10.5281/zenodo.20000699) |
 | FR12 | The Forced Bijection | v1.4 | [10.5281/zenodo.20001096](https://doi.org/10.5281/zenodo.20001096) |
 
 ### Coupling
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| FR13 | The ILMM Coupling Theorem | v1.5 | [10.5281/zenodo.20001376](https://doi.org/10.5281/zenodo.20001376) |
+| FR13 | The ILMM Coupling Theorem | v2.0 | [10.5281/zenodo.20001376](https://doi.org/10.5281/zenodo.20001376) |
 
 ### Human Architecture
 
 | Record | Title | Version |
 |--------|-------|---------|
-| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 |
+| ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 | [10.5281/zenodo.20195143]( https://doi.org/10.5281/zenodo.20195143) |
+
 
 **Download current versions and ZIP:** [3primitives.io/formal_records](https://3primitives.io/formal_records/)
 
