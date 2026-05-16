@@ -58,8 +58,8 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 
 ### Human Architecture
 
-| Record | Title | Version |
-|--------|-------|---------|
+| Record | Title | Version | DOI |
+|--------|-------|---------|-----|
 | ILMM | Inclusive Lifelong Multistakeholder Model | v3.0 | [10.5281/zenodo.20195143](https://doi.org/10.5281/zenodo.20195143) |
 
 
