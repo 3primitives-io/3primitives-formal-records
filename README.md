@@ -3,7 +3,7 @@ The formal corpus is self-hosted at 3primitives.io to ensure uninterrupted acces
 # Three Primitives — Formal Records Archive
 
 ## Status: All Records Live
-All formal records (FR1–FR13) are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
+All formal records (FR1–FR13) and Empirical Record 1 (ER1) are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 
 ## The Work
 
@@ -35,28 +35,24 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 | FR6 | The Law of Declared Authority | v2.3 | [10.5281/zenodo.19973195](https://doi.org/10.5281/zenodo.19973195) |
 | FR7 | Bell Non-Closure and the Law of Declared Authority | v2.2 | [10.5281/zenodo.19973546](https://doi.org/10.5281/zenodo.19973546) |
 | FR8 | Twisted Pair Legitimacy Theorem | v2.2 | [10.5281/zenodo.19973784](https://doi.org/10.5281/zenodo.19973784) |
-
-### Derived
-
-| Record | Title | Version | DOI |
-|--------|-------|---------|-----|
 | FR9 | AGI as a Decision-Complete System | v2.2 | [10.5281/zenodo.19970593](https://doi.org/10.5281/zenodo.19970593) |
 
-### Stability and Correspondence
+### Convergence
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| FR10 | Primitive Stability Theorem | v2.0| [10.5281/zenodo.20000176](https://doi.org/10.5281/zenodo.20000176) |
+| FR10 | Primitive Stability Theorem | v2.0 | [10.5281/zenodo.20000176](https://doi.org/10.5281/zenodo.20000176) |
 | FR11 | The GBSH Correspondence | v2.0 | [10.5281/zenodo.20000699](https://doi.org/10.5281/zenodo.20000699) |
 | FR12 | The Forced Bijection | v1.4 | [10.5281/zenodo.20001096](https://doi.org/10.5281/zenodo.20001096) |
+| FR13 | The ILMM Coupling Theorem | v2.0 | [10.5281/zenodo.20001376](https://doi.org/10.5281/zenodo.20001376) |
 
-### Coupling
+### Empirical
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| FR13 | The ILMM Coupling Theorem | v2.0 | [10.5281/zenodo.20001376](https://doi.org/10.5281/zenodo.20001376) |
+| ER1 | The Spontaneous Legibility Assumption: Output-Loop Attractors and the Illusion of AI Self-Modeling > ER1: The Chi Recovery Experiment | v1.5 | [10.5281/zenodo.20319076](https://doi.org/10.5281/zenodo.20319076) |
 
-### Human Architecture
+### Infrastructure
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
@@ -95,6 +91,8 @@ FR10–FR12 were originally published at 3primitives.io in April 2026. Zenodo up
 
 FR13 was first published May 2, 2026.
 
+ER1 was first published May 21, 2026.
+
 ## How to Verify Dates
 
 To verify the original creation dates, download any PDF and check its metadata:
@@ -108,7 +106,7 @@ The file system date reflects when you downloaded the file. The internal PDF met
 
 ## Licensing
 
-All formal records: CC BY 4.0
+All formal and empirical records: CC BY 4.0
 
 ## Contact
 
