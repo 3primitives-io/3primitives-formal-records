@@ -34,7 +34,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 |--------|-------|---------|-----|
 | FR6 | The Law of Declared Authority | v2.3 | [10.5281/zenodo.19973195](https://doi.org/10.5281/zenodo.19973195) |
 | FR7 | Bell Non-Closure and the Law of Declared Authority | v2.2 | [10.5281/zenodo.19973546](https://doi.org/10.5281/zenodo.19973546) |
-| FR8 | Twisted Pair Legitimacy Theorem | v2.2 | [10.5281/zenodo.19973784](https://doi.org/10.5281/zenodo.21318076) |
+| FR8 | Twisted Pair Legitimacy Theorem | v2.2 | [10.5281/zenodo.21318076](https://doi.org/10.5281/zenodo.21318076) |
 | FR9 | AGI as a Decision-Complete System | v2.2 | [10.5281/zenodo.19970593](https://doi.org/10.5281/zenodo.19970593) |
 
 ### Convergence
@@ -50,7 +50,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| ER1 | The Spontaneous Legibility Assumption: Output-Loop Attractors and the Illusion of AI Self-Modeling > ER1: The Chi Recovery Experiment | v1.5 | [10.5281/zenodo.20319076](https://doi.org/10.5281/zenodo.21318039) |
+| ER1 | The Spontaneous Legibility Assumption: Output-Loop Attractors and the Illusion of AI Self-Modeling > ER1: The Chi Recovery Experiment | v1.5 | [10.5281/zenodo.21318039](https://doi.org/10.5281/zenodo.21318039) |
 | ER2 | Evidence for a Structural Floor: A Minimum Coherence Threshold for Attractor Recovery in GPT-2 Medium Under Recursive Load > ER2: The Structural Floor Hypothesis | v1.3 | [10.5281/zenodo.20422422](https://doi.org/10.5281/zenodo.20422422) |
 | ER3 | The Floor Is Learned: Evidence that the Structural Coherence Threshold in GPT-2 Medium Is a Training Artifact Localised to the Architectural Midpoint > ER3: Layer Depth, Model Scale, and Random Weights | v1.1 | [10.5281/zenodo.20422496](https://doi.org/10.5281/zenodo.20422496) |
 | ER4 | Cross-Architecture Scaling: The Structural Forcing Distinction Is Itself a Training Artifact > ER4: Cross-Architecture Scaling | v1.1 | [10.5281/zenodo.20474018](https://doi.org/10.5281/zenodo.20474018) |
