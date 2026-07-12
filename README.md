@@ -34,7 +34,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 |--------|-------|---------|-----|
 | FR6 | The Law of Declared Authority | v2.3 | [10.5281/zenodo.19973195](https://doi.org/10.5281/zenodo.19973195) |
 | FR7 | Bell Non-Closure and the Law of Declared Authority | v2.2 | [10.5281/zenodo.19973546](https://doi.org/10.5281/zenodo.19973546) |
-| FR8 | Twisted Pair Legitimacy Theorem | v2.2 | [10.5281/zenodo.19973784](https://doi.org/10.5281/zenodo.19973784) |
+| FR8 | Twisted Pair Legitimacy Theorem | v2.2 | [10.5281/zenodo.19973784](https://doi.org/10.5281/zenodo.21318076) |
 | FR9 | AGI as a Decision-Complete System | v2.2 | [10.5281/zenodo.19970593](https://doi.org/10.5281/zenodo.19970593) |
 
 ### Convergence
