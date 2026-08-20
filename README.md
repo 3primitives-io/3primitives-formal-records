@@ -43,7 +43,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 |--------|-------|---------|-----|
 | FR10 | Primitive Stability Theorem | v2.0 | [10.5281/zenodo.20193759](https://doi.org/10.5281/zenodo.20193759) |
 | FR11 | The GBSH Correspondence | v2.0 | [10.5281/zenodo.20193762](https://doi.org/10.5281/zenodo.20193762) |
-| FR12 | The Forced Bijection | v1.7 | [0.5281/zenodo.22021360](https://doi.org/10.5281/zenodo.22021360) |
+| FR12 | The Forced Bijection | v1.7 | [10.5281/zenodo.22021360](https://doi.org/10.5281/zenodo.22021360) |
 | FR13 | The ILMM Coupling Theorem | v2.0 | [10.5281/zenodo.20193767](https://doi.org/10.5281/zenodo.20193767) |
 
 ### Empirical
