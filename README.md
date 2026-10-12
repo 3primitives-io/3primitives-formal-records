@@ -3,7 +3,7 @@ The formal corpus is self-hosted at 3primitives.io to ensure uninterrupted acces
 # Three Primitives — Formal Records Archive
 
 ## Status: All Records Live
-All formal records (FR1–FR13) and Empirical Record 1 (ER1) are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
+All formal records (FR1–FR15), empirical records (ER1–ER4) and the ILMM are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 
 ## The Work
 
@@ -26,7 +26,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
 | FR4 | The Adjacency Lemma: The Interface-Authority Boundary | v2.3 | [10.5281/zenodo.19971348](https://doi.org/10.5281/zenodo.19971348) |
-| FR5 | Lemma C — Ghost Authority Lemma | v2.5 | [10.5281/zenodo.23183190](https://doi.org/10.5281/zenodo.23183190) |
+| FR5 | Ghost Authority Lemma | v2.5 | [10.5281/zenodo.23183190](https://doi.org/10.5281/zenodo.23183190) |
 
 ### Closure Results
 
@@ -41,19 +41,21 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| FR10 | Primitive Stability Theorem | v2.0 | [10.5281/zenodo.20193759](https://doi.org/10.5281/zenodo.20193759) |
+| FR10 | Primitive Stability Theorem | v2.2 | [10.5281/zenodo.23309120](https://doi.org/10.5281/zenodo.23309120) |
 | FR11 | The GBSH Correspondence | v2.0 | [10.5281/zenodo.20193762](https://doi.org/10.5281/zenodo.20193762) |
 | FR12 | The Forced Bijection | v1.7 | [10.5281/zenodo.22021360](https://doi.org/10.5281/zenodo.22021360) |
 | FR13 | The ILMM Coupling Theorem | v2.4 | [10.5281/zenodo.23183292](https://doi.org/10.5281/zenodo.23183292) |
+| FR14 | The Individuation Theorem: Life as the Boundary of the Subject | v5.8 | [10.5281/zenodo.23309196](https://doi.org/10.5281/zenodo.23309196) |
+| FR15 | The Boundary Theorem: On the Structural Necessity of Held Boundaries in Authority, Personhood and Life | v2.4 | [10.5281/zenodo.23309450](https://doi.org/10.5281/zenodo.23309450) |
 
 ### Empirical
 
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
-| ER1 | The Spontaneous Legibility Assumption: Output-Loop Attractors and the Illusion of AI Self-Modeling > ER1: The Chi Recovery Experiment | v1.6.1 | [10.5281/zenodo.21318039](https://doi.org/10.5281/zenodo.21318039) |
-| ER2 | Evidence for a Structural Floor: A Minimum Coherence Threshold for Attractor Recovery in GPT-2 Medium Under Recursive Load > ER2: The Structural Floor Hypothesis | v1.3 | [10.5281/zenodo.20422422](https://doi.org/10.5281/zenodo.20422422) |
-| ER3 | The Floor Is Learned: Evidence that the Structural Coherence Threshold in GPT-2 Medium Is a Training Artifact Localised to the Architectural Midpoint > ER3: Layer Depth, Model Scale, and Random Weights | v1.1 | [10.5281/zenodo.20422496](https://doi.org/10.5281/zenodo.20422496) |
-| ER4 | Cross-Architecture Scaling: The Structural Forcing Distinction Is Itself a Training Artifact > ER4: Cross-Architecture Scaling | v1.1 | [10.5281/zenodo.20474018](https://doi.org/10.5281/zenodo.20474018) |
+| ER1 | The Spontaneous Legibility Assumption: Output-Loop Attractors and the Illusion of AI Self-Modeling | v1.6.1 | [10.5281/zenodo.21318039](https://doi.org/10.5281/zenodo.21318039) |
+| ER2 | Evidence for a Structural Floor: A Minimum Coherence Threshold for Attractor Recovery in GPT-2 Medium Under Recursive Load | v1.3 | [10.5281/zenodo.20422422](https://doi.org/10.5281/zenodo.20422422) |
+| ER3 | The Floor Is Learned: Evidence that the Structural Coherence Threshold in GPT-2 Medium Is a Training Artifact Localised to the Architectural Midpoint | v1.1 | [10.5281/zenodo.20422496](https://doi.org/10.5281/zenodo.20422496) |
+| ER4 | Cross-Architecture Scaling: The Structural Forcing Distinction Is Itself a Training Artifact | v1.1 | [10.5281/zenodo.20474018](https://doi.org/10.5281/zenodo.20474018) |
 
 ### Infrastructure
 
@@ -95,6 +97,8 @@ FR10–FR12 were originally published at 3primitives.io in April 2026. Zenodo up
 FR13 was first published May 2, 2026.
 
 ER1 was first published May 21, 2026.
+
+FR14 and FR15 were first published October 12, 2026.
 
 ## How to Verify Dates
 
