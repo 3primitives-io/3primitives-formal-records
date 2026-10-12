@@ -96,7 +96,7 @@ FR10–FR12 were originally published at 3primitives.io in April 2026. Zenodo up
 
 FR13 was first published May 2, 2026.
 
-ER1 was first published May 21, 2026.
+ER1 was first published May 20, 2026.
 
 FR14 and FR15 were first published October 12, 2026.
 
