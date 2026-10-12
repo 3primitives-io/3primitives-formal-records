@@ -68,7 +68,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 
 ## Original Zenodo Deposits (Provenance Archive)
 
-The `/zenodo-originals/` folder contains the first nine formal records (FR1–FR9) exactly as they were deposited on Zenodo between December 2025 and February 2026. **These files have not been modified.** Their PDF metadata contains the original creation dates, which serve as the evidentiary record of discovery.
+The original PDFs at the root of this repository are the first nine formal records (FR1–FR9) exactly as they were deposited on Zenodo between December 2025 and February 2026. Current versions are in the /current/ folder.
 
 Do not update or replace these files. Their value is the preserved timestamps.
 
