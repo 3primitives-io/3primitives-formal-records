@@ -92,13 +92,32 @@ All dates below are embedded in the PDF file metadata and can be independently v
 
 FR1–FR9 were originally deposited between December 2025 and February 2026. Zenodo account access was interrupted by an automated spam filter and restored with the assistance of the Zenodo and CERN support teams (Ticket #3319104). Content is unchanged from the original publication dates.
 
-FR10–FR12 were originally published at 3primitives.io in April 2026. Zenodo upload occurred in May 2026 following account reinstatement. Content is unchanged from original publication.
+FR10–FR12 were originally published at 3primitives.io on April 14, 2026. Zenodo upload occurred in May 2026 following account reinstatement. Content is unchanged from original publication.
 
-FR13 was first published May 2, 2026.
+### First Publication Dates
 
-ER1 was first published May 20, 2026.
-
-FR14 and FR15 were first published October 12, 2026.
+| Record | First published | Source |
+|--------|-----------------|--------|
+| FR1 | December 28, 2025 | PDF metadata; Zenodo v1.2 |
+| FR2 | January 10, 2026 | PDF metadata; Zenodo v1.3 |
+| FR3 | February 12, 2026 | PDF metadata; Zenodo v2 |
+| FR4 | January 10, 2026 | PDF metadata; Zenodo v1.2 |
+| FR5 | January 16, 2026 | PDF metadata; Zenodo v1.2 |
+| FR6 | January 18, 2026 | PDF metadata; Zenodo v1.3 |
+| FR7 | February 25, 2026 | PDF metadata |
+| FR8 | February 12, 2026 | PDF metadata; Zenodo v2 |
+| FR9 | January 8, 2026 | PDF metadata; Zenodo first deposit |
+| FR10 | April 14, 2026 | 3primitives.io; Zenodo v1.3 |
+| FR11 | April 14, 2026 | 3primitives.io; Zenodo deposit metadata |
+| FR12 | April 14, 2026 | 3primitives.io; Zenodo v1.4 |
+| FR13 | May 2, 2026 | 3primitives.io; Zenodo v1.5 deposited May 3, 2026 |
+| FR14 | October 12, 2026 | 3primitives.io and Zenodo |
+| FR15 | October 12, 2026 | 3primitives.io and Zenodo |
+| ER1 | May 20, 2026 | Zenodo v1.5.1 |
+| ER2 | May 28, 2026 | Zenodo v1.3 |
+| ER3 | May 28, 2026 | Zenodo v1.1 |
+| ER4 | May 31, 2026 | Zenodo v1.1 |
+| ILMM | March 10, 2026 | Zenodo v3.0 |
 
 ## How to Verify Dates
 
