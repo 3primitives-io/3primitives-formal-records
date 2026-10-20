@@ -3,7 +3,7 @@ The formal corpus is self-hosted at 3primitives.io to ensure uninterrupted acces
 # Three Primitives — Formal Records Archive
 
 ## Status: All Records Live
-All formal records (FR1–FR15), empirical records (ER1–ER4) and the ILMM are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
+All formal records (FR1–FR16), empirical records (ER1–ER4) and the ILMM are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 
 ## The Work
 
@@ -47,6 +47,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 | FR13 | The ILMM Coupling Theorem | v2.4 | [10.5281/zenodo.23183292](https://doi.org/10.5281/zenodo.23183292) |
 | FR14 | The Individuation Theorem: Life as the Boundary of the Subject | v5.8 | [10.5281/zenodo.23309196](https://doi.org/10.5281/zenodo.23309196) |
 | FR15 | The Boundary Theorem: On the Structural Necessity of Held Boundaries in Authority, Personhood and Life | v2.4 | [10.5281/zenodo.23309450](https://doi.org/10.5281/zenodo.23309450) |
+| FR16 | Classical, Quantum, Consciousness: On the Production of Causal Order and Spacetime by Held Boundaries | v3.5 | [10.5281/zenodo.23488654](https://doi.org/10.5281/zenodo.23488654) |
 
 ### Empirical
 
@@ -113,6 +114,7 @@ FR10–FR12 were originally published at 3primitives.io on April 14, 2026. Zenod
 | FR13 | May 2, 2026 | 3primitives.io; Zenodo v1.5 deposited May 3, 2026 |
 | FR14 | October 12, 2026 | 3primitives.io and Zenodo |
 | FR15 | October 12, 2026 | 3primitives.io and Zenodo |
+| FR16 | October 20, 2026 | 3primitives.io and Zenodo |
 | ER1 | May 20, 2026 | Zenodo v1.5.1 |
 | ER2 | May 28, 2026 | Zenodo v1.3 |
 | ER3 | May 28, 2026 | Zenodo v1.1 |
