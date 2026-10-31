@@ -48,6 +48,8 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 | FR14 | The Individuation Theorem: Life as the Boundary of the Subject | v5.8 | [10.5281/zenodo.23309196](https://doi.org/10.5281/zenodo.23309196) |
 | FR15 | The Boundary Theorem: On the Structural Necessity of Held Boundaries in Authority, Personhood and Life | v2.4 | [10.5281/zenodo.23309450](https://doi.org/10.5281/zenodo.23309450) |
 | FR16 | Classical, Quantum, Consciousness: On the Production of Causal Order and Spacetime by Held Boundaries | v3.5 | [10.5281/zenodo.23488654](https://doi.org/10.5281/zenodo.23488654) |
+| FR17 | Gravity, Carried: On the Production of Weak-Field Gravity by Held Boundaries | v2.2 | [10.5281/zenodo.23833327](https://doi.org/10.5281/zenodo.23833327) |
+| FR18 | Gravity, Held: On Gravity Acting on Itself Outside a Held Body | v2.5 | [10.5281/zenodo.23833521](https://doi.org/10.5281/zenodo.23833521) |
 
 ### Empirical
 
@@ -115,6 +117,8 @@ FR10–FR12 were originally published at 3primitives.io on April 14, 2026. Zenod
 | FR14 | October 12, 2026 | 3primitives.io and Zenodo |
 | FR15 | October 12, 2026 | 3primitives.io and Zenodo |
 | FR16 | October 20, 2026 | 3primitives.io and Zenodo |
+| FR17 | October 31, 2026 | 3primitives.io and Zenodo |
+| FR18 | October 31, 2026 | 3primitives.io and Zenodo |
 | ER1 | May 20, 2026 | Zenodo v1.5.1 |
 | ER2 | May 28, 2026 | Zenodo v1.3 |
 | ER3 | May 28, 2026 | Zenodo v1.1 |
