@@ -3,7 +3,7 @@ The formal corpus is self-hosted at 3primitives.io to ensure uninterrupted acces
 # Three Primitives — Formal Records Archive
 
 ## Status: All Records Live
-All formal records (FR1–FR16), empirical records (ER1–ER4) and the ILMM are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
+All formal records (FR1–FR18), empirical records (ER1–ER4) and the ILMM are published on Zenodo with DOIs and available at [3primitives.io/formal_records](https://3primitives.io/formal_records/).
 
 ## The Work
 
@@ -47,9 +47,9 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 | FR13 | The ILMM Coupling Theorem | v2.4 | [10.5281/zenodo.23183292](https://doi.org/10.5281/zenodo.23183292) |
 | FR14 | The Individuation Theorem: Life as the Boundary of the Subject | v5.8 | [10.5281/zenodo.23309196](https://doi.org/10.5281/zenodo.23309196) |
 | FR15 | The Boundary Theorem: On the Structural Necessity of Held Boundaries in Authority, Personhood and Life | v2.4 | [10.5281/zenodo.23309450](https://doi.org/10.5281/zenodo.23309450) |
-| FR16 | Classical, Quantum, Consciousness: On the Production of Causal Order and Spacetime by Held Boundaries | v3.5 | [10.5281/zenodo.23488654](https://doi.org/10.5281/zenodo.23488654) |
-| FR17 | Gravity, Carried: On the Production of Weak-Field Gravity by Held Boundaries | v2.2 | [10.5281/zenodo.23833327](https://doi.org/10.5281/zenodo.23833327) |
-| FR18 | Gravity, Held: On Gravity Acting on Itself Outside a Held Body | v2.5 | [10.5281/zenodo.23833521](https://doi.org/10.5281/zenodo.23833521) |
+| FR16 | Classical, Quantum, Consciousness: On the Production of Causal Order and Spacetime by Held Boundaries | v3.6 | [10.5281/zenodo.24020906](https://doi.org/10.5281/zenodo.23488653) |
+| FR17 | Gravity, Carried: On the Production of Weak-Field Gravity by Held Boundaries | v2.3 | [10.5281/zenodo.24021035](https://doi.org/10.5281/zenodo.24021035) |
+| FR18 | Gravity, Held: On Gravity Acting on Itself Outside a Held Body | v2.6 | [10.5281/zenodo.24021049](https://doi.org/10.5281/zenodo.24021049) |
 
 ### Empirical
 
