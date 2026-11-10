@@ -19,7 +19,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 |--------|-------|---------|-----|
 | FR1 | Three Primitives — Canonical Logic Sequence | v2.3 | [10.5281/zenodo.22795164](https://doi.org/10.5281/zenodo.22795164) |
 | FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems | v2.4 | [10.5281/zenodo.22795192](https://doi.org/10.5281/zenodo.22795192) |
-| FR3 | ADCI Closure Theorem | v2.2 | [10.5281/zenodo.24100142](https://doi.org/10.5281/zenodo.24100142) |
+| FR3 | ADCI Closure Theorem | v2.5 | [10.5281/zenodo.24100142](https://doi.org/10.5281/zenodo.24100142) |
 
 ### Structural Lemmas
 
@@ -42,7 +42,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 | Record | Title | Version | DOI |
 |--------|-------|---------|-----|
 | FR10 | Primitive Stability Theorem | v2.2 | [10.5281/zenodo.23309120](https://doi.org/10.5281/zenodo.23309120) |
-| FR11 | The GBSH Correspondence | v2.0 | [10.5281/zenodo.24067333](https://doi.org/10.5281/zenodo.24067333) |
+| FR11 | The GBSH Correspondence | v2.8 | [10.5281/zenodo.24067333](https://doi.org/10.5281/zenodo.24067333) |
 | FR12 | The Forced Bijection | v1.7 | [10.5281/zenodo.22021360](https://doi.org/10.5281/zenodo.22021360) |
 | FR13 | The ILMM Coupling Theorem | v2.4 | [10.5281/zenodo.23183292](https://doi.org/10.5281/zenodo.23183292) |
 | FR14 | The Individuation Theorem: Life as the Boundary of the Subject | v5.8 | [10.5281/zenodo.23309196](https://doi.org/10.5281/zenodo.23309196) |
