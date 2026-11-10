@@ -19,7 +19,7 @@ The framework was discovered by **Pyrate Ruby Passell** (Lead Developer) and **S
 |--------|-------|---------|-----|
 | FR1 | Three Primitives — Canonical Logic Sequence | v2.3 | [10.5281/zenodo.22795164](https://doi.org/10.5281/zenodo.22795164) |
 | FR2 | AI Cannot Govern AI: A Formal Proof of Structural Openness in Intelligent Systems | v2.4 | [10.5281/zenodo.22795192](https://doi.org/10.5281/zenodo.22795192) |
-| FR3 | ADCI Closure Theorem | v2.2 | [10.5281/zenodo.19970911](https://doi.org/10.5281/zenodo.19970911) |
+| FR3 | ADCI Closure Theorem | v2.2 | [10.5281/zenodo.24100142](https://doi.org/10.5281/zenodo.24100142) |
 
 ### Structural Lemmas
 
